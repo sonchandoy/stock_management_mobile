@@ -1,0 +1,4 @@
+#Thu Feb 24 15:30:05 ICT 2022
+base.0=/Users/sunchanduy/Documents/develop/stock_management_mobile/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
