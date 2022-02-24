@@ -2,7 +2,7 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:stock_management/screen/constant.dart';
+import 'package:stock_management/screen/common/constant.dart';
 
 class CategoryCard extends StatelessWidget {
   final String svgSrc;
@@ -22,7 +22,7 @@ class CategoryCard extends StatelessWidget {
       child: Container(
         // padding: EdgeInsets.all(20),
         decoration: BoxDecoration(
-          color: Color.fromARGB(255, 14, 165, 224),
+          color: const Color.fromARGB(255, 14, 165, 224),
           borderRadius: BorderRadius.circular(13),
           border: Border.all(
             color: Colors.grey,

@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/svg.dart';
-import 'package:stock_management/screen/category.dart';
-import 'package:stock_management/screen/constant.dart';
+import 'package:stock_management/screen/product/category.dart';
 import 'package:stock_management/screen/product/product_list.dart';
-import 'package:stock_management/screen/search.dart';
+import 'package:stock_management/screen/search/search.dart';
 import 'package:stock_management/screen/stock/stock_add.dart';
 
 class HomeScreen extends StatefulWidget {

@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:stock_management/screen/model.dart';
+import 'package:stock_management/screen/product/model.dart';
 import 'package:stock_management/screen/product/product_add.dart';
 
 class ProductList extends StatefulWidget {
